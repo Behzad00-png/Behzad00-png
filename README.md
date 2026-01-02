@@ -20,21 +20,21 @@
 
 ---
 
-#### 🛠 مهارت‌ها و تکنولوژی‌ها
+### 🛠 مهارت‌ها و تکنولوژی‌ها
 
 ### 🌐 زبان‌ها
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark" />
 </p>
 
 ### ⚛️ کتابخانه‌ها / فریم‌ورک‌ها
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs&theme=light" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" />
 </p>
 
-### ⚛️ کتابخانه‌ها / فریم‌ورک‌ها
+### 🔧 ابزارهای کاربردی
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs&theme=light" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
 </p>
 
 ### 🔧 ابزارهای کاربردی
