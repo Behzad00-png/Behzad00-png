@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/3a/48/1c/3a481c1c2fdf0e7d9db0f7b3b35c0c75.png" width="100%" />
+  <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?q=80&w=1600&auto=format&fit=crop" width="100%" />
 </p>
 
 <!-- Title -->
